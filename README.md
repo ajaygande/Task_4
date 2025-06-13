@@ -1,5 +1,4 @@
-# Task_4
-# Sales Dashboard Project – Power BI
+# Sales Dashboard Mini Project – Power BI
 
 This project showcases an interactive Sales Performance Dashboard built using Microsoft Power BI, aimed at providing key business insights for stakeholders using a Superstore sales dataset.
 
